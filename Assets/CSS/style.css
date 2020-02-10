@@ -44,15 +44,12 @@ h1 {
     vertical-align: middle;
 }
 
-.about-me, .portfolio {
+.about-me, .portfolio, .form {
     font-family: 'Raleway', sans-serif;
     padding: 5%;
     background: white;
     color: #333;
     border: 3px solid coral;
-}
-
-.portfolio {
     overflow: auto;
 }
 
@@ -63,14 +60,6 @@ h2 {
 
 hr {
     padding-bottom: 10px;
-}
-
-.form {
-    font-family: 'Raleway', sans-serif;
-    padding: 5%;
-    background: white;
-    color: #333;
-    border: 3px solid coral;
 }
 
 label {
