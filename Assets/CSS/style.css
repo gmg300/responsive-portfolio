@@ -1,81 +1,95 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald|Poppins|Raleway&display=swap');
+
 body {
-    margin: 0;
-    background: #d4d4d4;
-}
-
-header {
-    background: palevioletred;
-}
-
-header h1 {
-    text-align: center;
+    background-image: url("../Images/code-edited.jpg");
+    background-color: white;
     color: white;
-    padding: 40px;
-    font-family: Open;
-    margin: 0;
-    font-size: 3rem;
 }
 
-nav {
-    margin: 0 auto;
-    background: white;
-    border-bottom: 2px solid gray;
-}
-
-nav ul {
-    margin: 0;
-    padding: 40px;
-}
-
-nav li {
-    color: #666;
-    list-style-type: none;
-    font-size: 2rem;
-    display: inline;
-    padding: 0;
-}
-
-.about, .portfolio{
-    border-right: 1px solid gray;
-}
-
-form {
-    display: block;
-    background: white;
-    border: 1px solid gray;
-    margin: 20px auto;
-    width: 60%;
-}
-
-form h2 {
-    color: palevioletred;
-    padding-left: 30px;
-    margin-bottom: 10px;
-    font-size: 3rem;
-}
-
-form hr {
-    width: 90%;
-}
-
-form label {
-    font-size: 1.5rem;
-    color: gray;
-    padding-left: 30px;
-    margin-bottom: 10px;
-}
-
-form input, form textarea {
-    font-size: 1.5rem;
-    color: gray;
-    margin-left: 30px;
-    margin-bottom: 10px;
-}
-
-form button {
-    background: palevioletred;
+.brand-text {
     color: white;
-    font-size: 1.5rem;
-    padding: 10px 20px;
-    margin-left: 30px;
+    font-family: 'Raleway', sans-serif;
+
 }
+
+.brand-text:hover {
+    color: coral;
+    font-family: 'Raleway', sans-serif;
+}
+
+.navbar-dark .navbar-nav .nav-text {
+    color: white;
+    font-family: 'Raleway', sans-serif;
+}
+
+.navbar-dark .navbar-nav .nav-text:hover {
+    color: coral;
+    text-decoration: underline;
+}
+
+.jumbotron {
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    background: none;
+}
+
+h1 {
+    /* border: 1px solid coral; */
+    /* padding: 0; */
+}
+
+#separation-bar {
+    color: coral;
+    font-size: 4rem;
+    vertical-align: middle;
+}
+
+.about-me, .portfolio {
+    font-family: 'Raleway', sans-serif;
+    padding: 5%;
+    background: white;
+    color: #333;
+    border: 3px solid coral;
+}
+
+.portfolio {
+    overflow: auto;
+}
+
+h2 {
+    color: coral;
+
+}
+
+hr {
+    padding-bottom: 10px;
+}
+
+.form {
+    font-family: 'Raleway', sans-serif;
+    padding: 5%;
+    background: white;
+    color: #333;
+    border: 3px solid coral;
+}
+
+label {
+    color: coral;
+}
+
+.footer-text {
+    color: #f2f2f2;
+}
+/* Color
+
+Honeydew #E8F7EE
+X11 Gray #B8C4BB
+Rose Ebony #663F46
+Olive Drab #3C362A
+Columbia Blue #C9D6EA
+
+font-family: 'Oswald', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Poppins', sans-serif; */
+
+
