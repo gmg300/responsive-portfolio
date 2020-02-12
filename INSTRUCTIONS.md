@@ -1,6 +1,6 @@
 # Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
 
-## Questions for TAs
+## Questions for TAs (02/12/20)
 * Is this technically a responsive layout are the images responsive?
 * It says on 'xs' screens content should take up the whole screen? Is it okay the way it is now?
 * What are sub-headers and sub-columns?
