@@ -37,9 +37,9 @@ body {
 }
 
 /* Main Content --- Content Container */
-.about-me, .portfolio, .contact {
+.main-bg-styling {
     padding: 5%;
-    background: white;
+    background-color: rgba(255, 255, 255, .9);
     color: #333;
     border: 3px solid coral;
     overflow: auto;
