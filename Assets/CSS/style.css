@@ -121,8 +121,16 @@ label {
 }
 
 /* Footer */
-.footer-text {
-    color: #f2f2f2;
+footer p {
+    font-size: .8rem;
+    color: rgba(242, 242, 242, .75);
+}
+
+footer p a, footer p a:hover, footer p a:visited {
+    color: coral;
+}
+footer p a:active {
+    color: white;
 }
 
 
