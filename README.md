@@ -1,8 +1,9 @@
 # Responsive Portfolio v1.0
 
-![Image of index.html]()
-![Image of portfolio.html]()
-![Image of contact.html]()
+![Image of xs portfolio.html]()
+![Image of sm portfolio.html]()
+![Image of md portfolio.html]()
+![Image of lg portfolio.html]()
 
 ## Description
 This is my first crack at a personal portfolio website using the bootstrap CSS framework and responsive design elements. The static site contains an index, portfolio and contact page for presenting my personal information, portfolio projects and contacting me through email. 

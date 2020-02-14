@@ -1,11 +1,8 @@
 # Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
 
 ## Questions for TAs (02/12/20)
-* Is this technically a responsive layout are the images responsive?
-* It says on 'xs' screens content should take up the whole screen? Is it okay the way it is now?
-* What are sub-headers and sub-columns?
-* My footer bg is transparent so it doesn't seem to make sense to make it sticky?
-* Do I have too much unnecessary css?
+* My background repeats in some areas and I can't get it to cover everything?
+* How do I make the size of my portfolio cards uniform?
 
 Responsive design ensures that web applications render well on a variety of devices and window or screen sizes. As a developer, you will likely be asked to create a mobile-first application or add responsive design to an existing application. 
 

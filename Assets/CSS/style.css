@@ -1,13 +1,14 @@
 /* General CSS */
 @import url('https://fonts.googleapis.com/css?family=Michroma|Raleway|Syncopate:400,700&display=swap');
 
-html {
+:root {
     font-size: 1rem;
 }
 
 body {
     background-image: url("../Images/code-edited.jpg");
     background-color: white;
+    /* background-size: cover; */
     color: white;
     font-family: 'Raleway', sans-serif;
 }
@@ -96,6 +97,7 @@ body {
 
 h2 {
     color: coral;
+    font-size: 2rem;
 }
 
 hr {
@@ -136,6 +138,23 @@ footer p a, footer p a:hover, footer p a:visited {
 footer p a:active {
     color: white;
 }
+
+/* Media Queries */
+/* Small devices */
+@media only screen and (max-width: 500px) {
+    :root {
+        font-size: .8rem;
+    }
+  }
+
+/* Medium devices */
+@media only screen and (max-width: 425px) {
+    :root {
+        font-size: .6rem;
+    }
+  }
+
+
 
 
 
