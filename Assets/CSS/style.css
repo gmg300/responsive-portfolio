@@ -113,6 +113,7 @@ label {
 .portfolio-item-body {
     padding: .75rem 1rem;
     background-color: #333;
+    height: 15vh;
 }
 
 .portfolio-item-header {
