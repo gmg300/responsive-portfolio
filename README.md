@@ -1,9 +1,10 @@
 # Responsive Portfolio v0.1
 
-![Image of xs portfolio.html]()
-![Image of sm portfolio.html]()
-![Image of md portfolio.html]()
-![Image of lg portfolio.html]()
+<img src="Assets/Images/portfolio-site-xs.png" title="Extra Small" width="100">
+<img src="Assets/Images/portfolio-site-sm.png" title="Small" width="150">
+<img src="Assets/Images/portfolio-site-md.png" title="Medium" width="250"><br>
+<img src="Assets/Images/portfolio-site-lg.png" title="Large" width="450">
+
 
 ## Description
 This is my first crack at a personal portfolio website using the bootstrap CSS framework and responsive design elements. The static site contains an index, portfolio and contact page for presenting my personal information, portfolio projects and contacting me through email. 
