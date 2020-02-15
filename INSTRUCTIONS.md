@@ -1,8 +1,7 @@
 # Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
 
-## Questions for TAs (02/12/20)
+## Questions for TAs (02/15/20)
 * My background repeats in some areas and I can't get it to cover everything?
-* How do I make the size of my portfolio cards uniform?
 * Footer won't stick to bottom?
 
 Responsive design ensures that web applications render well on a variety of devices and window or screen sizes. As a developer, you will likely be asked to create a mobile-first application or add responsive design to an existing application. 

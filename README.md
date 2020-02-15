@@ -1,4 +1,4 @@
-# Responsive Portfolio v1.0
+# Responsive Portfolio v0.1
 
 ![Image of xs portfolio.html]()
 ![Image of sm portfolio.html]()
